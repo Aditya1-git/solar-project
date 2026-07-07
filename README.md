@@ -37,8 +37,6 @@ Add screenshots of your project here.
 
 ```
 <img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/044e4b79-7e27-4e15-9536-63a31fc90384" />
-<img width="841" height="544" alt="image" src="https://github.com/user-attachments/assets/43645103-d5e1-4d2d-b9ab-1d2900d03847" />
-
 
 ```
 
