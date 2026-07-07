@@ -17,8 +17,6 @@ An interactive Solar System project that visualizes the planets orbiting around 
 - CSS3
 - JavaScript
 
-*(Replace or add technologies if you used React, Three.js, Tailwind CSS, etc.)*
-
 ## 📂 Project Structure
 
 ```
@@ -35,10 +33,10 @@ Solar-System/
 
 Add screenshots of your project here.
 
-```
-<img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/044e4b79-7e27-4e15-9536-63a31fc90384" />
 
-```
+<img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/044e4b79-7e27-4e15-9536-63a31fc90384" />
+<img width="841" height="544" alt="image" src="https://github.com/user-attachments/assets/e71e5b72-c125-4fe7-b90e-c1d34d7b8943" />
+
 
 ## 💻 Getting Started
 
